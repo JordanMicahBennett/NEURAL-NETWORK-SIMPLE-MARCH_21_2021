@@ -23,7 +23,7 @@ Simple artificial neural network written from memory/scratch by God in java
   
   d) Input=(1,1) output should be 0
   
-  ![Alt text](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-MARCH_21_2021/blob/master/Screenshot.png "default page")
+  ![Alt text](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-MARCH_21_2021/blob/main/Screenshot.png "default page")
   
 
  
