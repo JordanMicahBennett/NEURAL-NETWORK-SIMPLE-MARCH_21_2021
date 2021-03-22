@@ -3,7 +3,7 @@ Simple artificial neural network written from memory/scratch by God in java
 
   Author: God Bennett
   
-  This particular session was coded by God in association with [Jamaica Artificial Intelligence association organized by ](https://www.instagram.com/p/CMsWiuUBAIu/?utm_source=ig_web_copy_link) [Matthew Stone](https://www.linkedin.com/in/matthew-stone-07428789/), and also [God's Live-Agile-Artificial-Neural-Network-Programming-Sessions](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/README.md).
+  This particular session was coded by God in association with [Jamaica Artificial Intelligence association] organized by(https://www.instagram.com/p/CMsWiuUBAIu/?utm_source=ig_web_copy_link) [Matthew Stone](https://www.linkedin.com/in/matthew-stone-07428789/), and also [God's Live-Agile-Artificial-Neural-Network-Programming-Sessions](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/README.md).
   
   Why?: This is practice writing of basic neural network from memory. ([I do this at the end of each year, or sometimes every 6 months](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE), for practice of fundamentals.)
   
